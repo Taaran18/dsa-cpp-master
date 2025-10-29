@@ -1,0 +1,14 @@
+# Build files
+a.out
+*.exe
+*.o
+*.obj
+
+# IDE folders
+.vscode/
+.idea/
+build/
+
+# OS junk
+.DS_Store
+Thumbs.db
